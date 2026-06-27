@@ -60,6 +60,6 @@ Professional Standards: Clean, corporate-grade code architecture.
 
 🏆 Join the Elite
 Be part of the FatahShaheen OS community.
-Join our Headquarters
+[Join our Headquarters](https://discord.gg/2EfvsaDsTH)
 
 Engineered for excellence. Protected by FatahShaheen OS.
