@@ -1,0 +1,8 @@
+PyNaCl
+discord.py
+gTTS
+davey
+yt-dlp
+huggingface-hub
+firebase-admin
+python-dotenv
